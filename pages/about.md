@@ -12,6 +12,7 @@ Profissional da área de dados com experiência de 3+ anos em resolver problemas
 
 Habilidades técnicas:
 - Ferramentas: MicroStrategy , PowerCenter, Pentaho, Power BI, Oracle, MySQL, PostgreSQL, DW, Machine Learning, scikit-learn, pandas, numpy, Jupyter Notebook Tableau, Grafana, Metabase e Git.
+- Clouds: AWS e Google Cloud Platform.
 - Linguagens: SQL, Python e R
 
 Dê uma olhada em alguns links interessantes:
