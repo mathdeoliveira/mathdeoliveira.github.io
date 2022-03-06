@@ -1,7 +1,7 @@
 ---
 name: Web app com machine learning
 tools: [python, machine-learning, heroku]
-image: https://media-exp1.licdn.com/dms/image/C4E12AQE2Q_a6XgLqCQ/article-cover_image-shrink_720_1280/0/1584542622949?e=1652313600&v=beta&t=9ShqlkC_LZUzLSrKI0PBis4C42AVEt2v4RIJFVvvL-A
+image: https://previews.dropbox.com/p/thumb/ABdqeIgjskmZd1n2foi_s4KjNTxipz5lP6QLeySqAm9n5OO5rYwwrkgKHxxSkgEwn21bPfthZyfTg0jS-W2_HSmC1nMLErqIJ0VtPgeAqIwY_GiiyobSCQV4_eH-LTLH0NiJbVc8Z--svCceHMAC1w95ZMjHXr0YeN-YHUAEX-d4vFS5FfFlJTDxyddQRdZthWs4QDQESWYGLRkGxos6k8Jcvp-GitlUAGXAyJ9o9DY_ZRhonN_KdZ80eYVp6UYAjrDq6y2Dx7kgku2xx_7L3JrKO1R3t1AiYFTaLCcohKinkcCXI8LxG_AQhdUfCDvC46KTCblrf1V7G9UaRKVuxEl8OhImxvdqo28RAM-vGIDcZQ/p.jpeg
 description: Algoritmo de machine learning aplicado em um web app
 ---
 
@@ -34,11 +34,11 @@ Dicionário das variáveis
 
 Vamos iniciar mostrando alguns gráficos que representam o nosso conjunto de dados. Para mais informações, por favor entre no [notebook](http://bit.ly/2Qq2ngF).
 
-![alt text](https://media-exp1.licdn.com/dms/image/C4E12AQHGe51ScE8wSg/article-inline_image-shrink_1000_1488/0/1584535836438?e=1645660800&v=beta&t=S0_SaLrT9uBegc0VJuFBIiJSc_WtldhQLGLLxNbpMgE)
+![alt text](https://previews.dropbox.com/p/thumb/ABeRIYuN54-nazLubzbqW4k9-zr8-gbW7MTDFxcBLYVsYPNn3YcjK26MSOHBlgqTl87OaiRoN7sOCBE4HfgbK4HXiCWNVlcGCvxdAtse8yT9xvAAxDXz46phrdBw6jMM0h4LAIl9TMYshFMKdQb3OSohQ60UlOhAZCxkVwxHVMZ4trtWQYrNDCEVSPSZ_oc7xlh-z4yGm_btjmT0zlImHtwsnVeNOLgvZkHgcLuTgDVXpJs4REZw6dezbjbl1cdW4dn24gkev8Ut3qe8wXafcSDnc6FiotXfrkupTnKQbCCrlCa8ex5Dw4sbQ9CMUNR0IryxLSp26Z6zEW4fsZPvrSIvNPa3QZxkHH9voyb9s9Fxtg/p.png)
 
 Com o gráfico acima podemos evidenciar que a grande maioria dos aptos anunciados tem dois quartos. É interessante sabermos disso pois assim sabemos que a maioria dos aptos são construídos com dois quartos estão à venda, com essa informação podemos levar às construtoras dizendo que com esse número de quartos podem atrair mais compradores. Claro que, não podemos fixar essa informação como verdade única, temos outras variáveis que vão levar ou não a compra e não podemos deixar de lado.
 
-![alt text](https://media-exp1.licdn.com/dms/image/C4E12AQFNKJN6i7wVzw/article-inline_image-shrink_1000_1488/0/1584536380075?e=1645660800&v=beta&t=twZ9qpUNoQwS-TeQW5OOxoawyrUB9V5SkDFO3MyBCXU)
+![alt text](https://previews.dropbox.com/p/thumb/ABf4TacJRiwL5LnL6KMjiYP6o_Pu3sA-aAB43tTa70yEiMBxU41tgFVFCDVzUC4LjXm-dKsdgsYgER89YLJ3IB1c3UkFFdIpgrPdHe7UMs0oARo6hZliQBzjIiLwQ5JwRuEV0snfs3r22EdrOGPUzS020XYrBEYui9-EiSwylh9qHkSzxqPRbAQljRQnbHEtq0BkB2WFpUEz9DsCC4-mF23NFvnsRbCWjp8KENmQ_scsJgxbHM3Ejcugrd-IYejrrnEVVojuuJGL_eFk1Kr-j8e8IWK0iViULKryLayT88nFNbVCNKUTkOUpcSbR5rHNriaGq_I7acoygergsjbafJHjizf41J-ri3JysgKXUrk85w/p.png)
 
 Sabemos que os imóveis anunciados são somente da cidade de São Paulo, com o gráfico acima, podemos descobrir a localização de cada um dos aptos anunciado, e vamos evidenciar no gráfico o preço de cada um deles, onde as cores mais escura dos pontos tem o maior preço e os pontos com cores mais claras tem o menor preço.
 
@@ -65,7 +65,7 @@ Após o treino do modelo escolhido, devemos achar um jeito de usar esse modelo, 
 
 Todos os arquivos usado para a criação do projeto está no meu GitHub, mais especificamente nesse [portfólio](https://github.com/mathdeoliveira/project_predict_house_prices).
 
-![alt text](https://media-exp1.licdn.com/dms/image/C4E12AQFT-mrEGUH8tw/article-inline_image-shrink_1500_2232/0/1584540733423?e=1645660800&v=beta&t=ZcSimiRsQXVR3cnye0JO3S7X_K3shJIDIyeZPdcxt5Q)
+![alt text](https://previews.dropbox.com/p/thumb/ABdpiAI2oN1kE-HjqlHQgZTLmMQORErJ9VV-kksC0u4kyXMcTsDD1ag6Nlb8NlnrJ2wjxPqRsKgU3ZLlruJJA_8vPIiuWqO__w8PAQCwgYOgZTSX_Gg-STPXxrsAvXVqsvPhZiQ6hdKzuJCldFHbuLz_gyuCS_1AU3RJ6H-TR2ZMXaeJjLI7hyF2lJsHrl0LDbaik094UPTnXhKB6seHYaAkJ1Th4YqL9aCBO64pM-uQ3QKZWGUMeK4XU9o-HUuGs98TFbbZsu-DeAn_IBlOklNp2Fgkm2mNp_AvCNpnPc9grWXMpBrVIGHDeublVXWh4BozdHBxiJtuO5t_VPcZXco-ixmnEFL40kXs1WgyO77s-g/p.png)
 
 Para ver o aplicar o modelo, eu criei de forma bem simples, um WebApp que podemos entrar com valores reais e com isso prever o valor com os dados de entrada, usando o modelo GB treinado. A imagem ao lado mostra uma forma de como podemos implantar um modelo de Machine Learning, assim o usuário entra com os dados das características do apartamento e ele conseguir calcular a previsão do preço do imóvel.
 
