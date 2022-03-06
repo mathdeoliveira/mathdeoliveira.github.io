@@ -1,7 +1,7 @@
 ---
 name: Web app com machine learning
 tools: [python, machine-learning, heroku]
-image: https://media-exp1.licdn.com/dms/image/C4E12AQE2Q_a6XgLqCQ/article-cover_image-shrink_720_1280/0/1584542622949?e=1645660800&v=beta&t=St7CFrpYWEEgDJItZmtdZacjANZE949B5VOWcEZaoYY
+image: https://media-exp1.licdn.com/dms/image/C4E12AQE2Q_a6XgLqCQ/article-cover_image-shrink_720_1280/0/1584542622949?e=1652313600&v=beta&t=9ShqlkC_LZUzLSrKI0PBis4C42AVEt2v4RIJFVvvL-A
 description: Algoritmo de machine learning aplicado em um web app
 ---
 
