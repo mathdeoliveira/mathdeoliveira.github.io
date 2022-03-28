@@ -2,7 +2,7 @@
 title: Business Analytics - Quais clientes vão deixar a empresa?
 layout: post
 date: 2021-11-28
-image: https://previews.dropbox.com/p/thumb/ABfovaf9Xq-UrMgJps_CFct-lgs88bSDdx1ku3nkR5uJlBmZdc0fSGByn09N0k_68Uxe61PkNupfvHBOBAoGWOrR0Dvp_EgOo7lNl4O1KzCTysHXJxb2AJR1jIUt5mrN8O4HK4GCrbwXALK7nfa0E39n8AQONFDr_CvlLkU3DZy24jl82iNUBrDzLzKKmfgQ36a3g437vDoTZ3zF2Px0mxL-imXFj1qbGvIwI-buT0kwSirS6oncmij7N_1r7NcCiLn1sZKHVdDmZFz5a4J8HixVh5CTFjNSLxZIfg3w5UCTYVzjOoX7UyUmqpNOjgNvOiO_l4FMy35aVqZVfsQ39TnUT15vIm_Wrr-vTsxZLMgZBw/p.jpeg
+image: https://imgur.com/clhQHWC
 tags: [data-science, python]
 comments: true
 description: O churn é uma métrica que mede a rotatividade de clientes do negócio isso está relacionado com os índices de evasão dos clientes a previsão dessa métrica é de suma importância.
@@ -20,9 +20,9 @@ Irei demonstrar aqui algumas técnicas de business analytics para resolver um pr
 
 O intuito da análise exploratória dos dados é descobrir mais sobre os nossos dados, aqui vou te mostrar alguns insights que consegui explorando os dados.
 
-Começando com o gênero dos clientes, conseguimos perceber que os clientes do gênero feminino são os clientes que mais deixaram de ser clientes. ![alt text](https://previews.dropbox.com/p/thumb/ABemkg0haW8dAAjGNhETaUbVJsaIwS5-SYhPWTB9rBTlAPtf63mJxcTQf9xgGW5FlWp6w5KKyKLLQGT6FgIqhCvW14chRMcVvvS4nbTQZlxfUybn4cQBiUM2PklodTcKJabsfLFVIunI_L-SWwdXI8lB7hLliuPXrRRlauZULu_qwMzY-JqskRqhc3idlw8OXkwQwJQBBCsUQSYfYILfPIz_I_9RsBziYb82MW1mj7TCOJpEoc9_l4JzkhQGuE3IPtMUC5BAJkuKDW-J5utCfnwPgS5cbyJiiDDbeBhd71G-576YeTbc3aL1KKVYxfP5ssANYMNNIaoY6N3V51mi65Fr5eD8ybRR5VqzFm0lkE24aw/p.png)
+Começando com o gênero dos clientes, conseguimos perceber que os clientes do gênero feminino são os clientes que mais deixaram de ser clientes. ![alt text](https://imgur.com/3heZdcP)
 
-Continuando, temos uma variável que mostra se o cliente tem ou não um cartão de crédito, representado por 0 e 1. A tabela nos mostra que os clientes que possuem cartão de crédito são a maioria que deixaram de ser clientes do banco. ![alt text](https://previews.dropbox.com/p/thumb/ABdd0aiFT8VMuDsAtO0H2yKmy-T25RCkPziSfx7072TTD3yhUSyif2n8y3dWb6Qns52cM_7dgYVPpI7Bj8TSQZ7Vvdwy8ozJKF8h0IBQVKkzCZERrxLeLydzLZUbjXewdFTutrlCaiPG2NGSPuYjl3PgPamTgOV7ToIcYrUMf97abWPQpybabJILguIFjTwwr6Bw0vrYCdPv5V-zvaKo7uHP3cAhmgIFtUa0FPPx7LYqua40g01EHM1GWN8dGkVNt_KbbWTH_gKuhaY3cG3ZXkbU4p_LuE4yJNphN_QDGNeO4ewF7y6q-np2SeT6STY_GYJJM-KBUb6Uqs3F1bgY5bMoVwjgip4MuAQNlwSnpkEKnA/p.png)
+Continuando, temos uma variável que mostra se o cliente tem ou não um cartão de crédito, representado por 0 e 1. A tabela nos mostra que os clientes que possuem cartão de crédito são a maioria que deixaram de ser clientes do banco. ![alt text](https://imgur.com/W1H7x51)
 
 Convido você a entrar no notebook para ver toda a análise dos dados feita, [clique aqui.](https://bit.ly/2O0cJSI)
 
@@ -38,7 +38,7 @@ Interpretando alguns dados temos que, os clientes do sexo Male possuem menos cha
 
 Temos que para esse modelo algumas variáveis importantes, sendo elas **Geography, Gender, Age, Balance e IsActiveMember.**
 
-Para fazer uma comparação com a Regressão Logística, usaremos o Random Forest Classifier, que é um algoritmo baseado em árvores. ![alt text](https://previews.dropbox.com/p/thumb/ABdEvUfrlfB8Kh4RFLKlDSiizlQp696HBjrDjQmKyo0qGYC9fSMkZSFXjbPscRoXqK1GzIX-pGo9ePBkWF7sdP5z2aufUBz2w58sNZecYYtjWyen0N1g1Z8t0WiB6PTGM26fx2P9VpNAY23DGxuR8g20Rd7jOzRQxEHbrxLFygoNxi_zU6cLSu9AC_lGfL8cPNpVjJhAZ7blPLv7cUxByD_E3kBGJsB170OLIuLh4I_26IAZxlmCcWbhYLux-0BoPqljBOauJIn84eewntADeV7h1VBQrAlM3sL5NTEb64XA1_cnp88YlXT7mAeBnlzGXYt7E4BqMQsR0kH6vUd-eDsggC0ZUSgE8idwUCUUUH-ScQ/p.png)
+Para fazer uma comparação com a Regressão Logística, usaremos o Random Forest Classifier, que é um algoritmo baseado em árvores. ![alt text](https://imgur.com/j59H0h3)
 
 Para tal, o modelo, de acordo com o gráfico acima, tivemos que as variáveis importantes foram: **Age, EstimatedSalary, Balance e CreditScore.**
 

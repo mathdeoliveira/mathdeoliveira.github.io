@@ -1,7 +1,7 @@
 ---
 name: Recomendador de Imóveis
 tools: [python, outsystems]
-image: https://previews.dropbox.com/p/thumb/ABctncQ1k4P3mpxKFcE2Dh3TQVnqplyvh4tM5Qx1j6sXqVnShdHfddfqBEzTa0u6yM1UtasqSfnpHE24rLvLTsZKytWDhoSEftWn0AFS8-TMBBae4I-SaOhT7R73y-B0Ne34iK6mP9M9OWQOeEhHeII2jNRL8uXjdVSSJf8QE22HX_GUNSID9CDZ8icsZ4XGP5ugjcHBxQ-TmLBBfc7NTYn9k9_L7VFn30Vhh5TQ5aCSR80OwcjlKYl-ejch9wG7XuddFYOUwzBCHEDJABC9cBd7reIA-sVdN0AOxO6po1XkqcCbs2_T5_hrhPhHSJd6ddL_KOznw4mlheXVKJ83Uo0-RXeOSHbt3zeGC8tvzvF6Sw/p.jpeg
+image: https://imgur.com/nuWHnUm
 description: Algoritmo de machine learning aplicado em um sistema de recomendação de imóvel
 ---
 
@@ -56,7 +56,7 @@ Para o deploy foi utilizado o Streamlit desenvolvido em Python onde é possível
 
 Para o aplicativo ficar on-line, criei o banco de dados MySQL e uma instância de uma máquina ECS na Amazon Web Services (AWS).
 
-![alt text](https://previews.dropbox.com/p/thumb/ABeV6rUuc3IQdD7DKMt8_MQ5l7TzwM-I28d1DbuCunwKGbReiy8cTgoIXT37hcvuvBXhGCKc_QI6F5ZHBohYy8onajcaKdIQVEZXXtmC5Uuboe9afaXLPXDK8iWTRpfpjWzc5AFsIEWwa3i8mi4f-4Y1LO6aKDtbVZcnOEK4i0kiuj5rVg9yrrWjgrqRo57bKbtWoYRopSkqr3xVs8IX4ocC55V3rOh0WxTbsGcV2kCRjMs5CVWQTr13pxZUD6a55vL8PcS9t9t4d_6lICscSXen_E7N2eLzFg1LNa0XNyn2yxTTSodX5G89ktbfH7xRSVWMC1HCbpy_eCL2VQLjxcR3IeNvhBXcaz5LBPPIJ3Sb3A/p.png)
+![alt text](https://imgur.com/FEV3fXA)
 
 E no final, temos o nosso webapp rodando na internet, para acessar o aplicativo é necessário a execução do todo processo para a máquina na AWS ficar on-line.
 

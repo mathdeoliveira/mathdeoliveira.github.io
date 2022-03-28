@@ -2,7 +2,7 @@
 title: Analisando os dados da Violência no Rio de Janeiro
 layout: post
 date: 2020-02-11
-image: https://media-exp1.licdn.com/dms/image/C4E12AQEa7p6GHIrz1Q/article-cover_image-shrink_720_1280/0/1581428491241?e=1645660800&v=beta&t=AzHVZqhyywYTsWS2zlbD9Na5qkhypwSNHdAsnQAOESE
+image: https://imgur.com/MUtENno
 tags: [python, data-analysis]
 comments: true
 description: Analisando os dados da Violência no Rio de Janeiro.
