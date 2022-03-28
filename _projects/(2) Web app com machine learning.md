@@ -1,7 +1,7 @@
 ---
 name: Web app com machine learning
 tools: [python, machine-learning, heroku]
-image: https://imgur.com/1XZmuyn
+image: https://i.imgur.com/1XZmuyn.jpg
 description: Algoritmo de machine learning aplicado em um web app
 ---
 
@@ -34,11 +34,11 @@ Dicionário das variáveis
 
 Vamos iniciar mostrando alguns gráficos que representam o nosso conjunto de dados. Para mais informações, por favor entre no [notebook](http://bit.ly/2Qq2ngF).
 
-![alt text](https://imgur.com/XjIHOMp
+![alt text](https://i.imgur.com/XjIHOMp.png)
 
 Com o gráfico acima podemos evidenciar que a grande maioria dos aptos anunciados tem dois quartos. É interessante sabermos disso pois assim sabemos que a maioria dos aptos são construídos com dois quartos estão à venda, com essa informação podemos levar às construtoras dizendo que com esse número de quartos podem atrair mais compradores. Claro que, não podemos fixar essa informação como verdade única, temos outras variáveis que vão levar ou não a compra e não podemos deixar de lado.
 
-![alt text](https://imgur.com/D7FxMuz)
+![alt text](https://i.imgur.com/D7FxMuz.png)
 
 Sabemos que os imóveis anunciados são somente da cidade de São Paulo, com o gráfico acima, podemos descobrir a localização de cada um dos aptos anunciado, e vamos evidenciar no gráfico o preço de cada um deles, onde as cores mais escura dos pontos tem o maior preço e os pontos com cores mais claras tem o menor preço.
 
@@ -65,7 +65,7 @@ Após o treino do modelo escolhido, devemos achar um jeito de usar esse modelo, 
 
 Todos os arquivos usado para a criação do projeto está no meu GitHub, mais especificamente nesse [portfólio](https://github.com/mathdeoliveira/project_predict_house_prices).
 
-![alt text](https://imgur.com/HEvNAJx)
+![alt text](https://i.imgur.com/HEvNAJx.png)
 
 Para ver o aplicar o modelo, eu criei de forma bem simples, um WebApp que podemos entrar com valores reais e com isso prever o valor com os dados de entrada, usando o modelo GB treinado. A imagem ao lado mostra uma forma de como podemos implantar um modelo de Machine Learning, assim o usuário entra com os dados das características do apartamento e ele conseguir calcular a previsão do preço do imóvel.
 

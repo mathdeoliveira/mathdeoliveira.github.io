@@ -2,7 +2,7 @@
 title: Analisando os dados sobre o Coronavirus nCoV-2019
 layout: post
 date: 2020-02-12
-image: https://imgur.com/zOyki7l
+image: https://i.imgur.com/zOyki7l.jpg
 tags: [python, data-analysis]
 comments: true
 description: Analisando os dados sobre o Coronavirus nCoV-2019.
@@ -11,7 +11,7 @@ description: Analisando os dados sobre o Coronavirus nCoV-2019.
 # Introdução
 O nCoV-2019 teve registro no fim de dezembro de 2019, na China, e após isso, o vírus se espalhou para mais de 18 países. Esse vírus se iniciou em um mercado de animais na cidade de Wuhan, China. Por ser rápido e fácil a sua transmissão, organismos internacionais e a comunidade científica está na busca por respostas sobre prevenção, transmissão e tratamento desse novo tipo de coronavírus.
 
-![alt text](https://imgur.com/Y4vIqDq
+![alt text](https://i.imgur.com/Y4vIqDq.png)
 
 # Análise
 A análise possível pois a [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) disponibilizou os dados, créditos totais para eles.

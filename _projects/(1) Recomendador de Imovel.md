@@ -1,7 +1,7 @@
 ---
 name: Recomendador de Imóveis
 tools: [python, outsystems]
-image: https://imgur.com/nuWHnUm
+image: https://i.imgur.com/nuWHnUm.jpg
 description: Algoritmo de machine learning aplicado em um sistema de recomendação de imóvel
 ---
 
@@ -56,7 +56,7 @@ Para o deploy foi utilizado o Streamlit desenvolvido em Python onde é possível
 
 Para o aplicativo ficar on-line, criei o banco de dados MySQL e uma instância de uma máquina ECS na Amazon Web Services (AWS).
 
-![alt text](https://imgur.com/FEV3fXA)
+![alt text](https://i.imgur.com/FEV3fXA.png)
 
 E no final, temos o nosso webapp rodando na internet, para acessar o aplicativo é necessário a execução do todo processo para a máquina na AWS ficar on-line.
 

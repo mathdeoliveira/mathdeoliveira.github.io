@@ -2,7 +2,7 @@
 title: Business Analytics - Quais clientes vão deixar a empresa?
 layout: post
 date: 2021-11-28
-image: https://imgur.com/clhQHWC
+image: https://i.imgur.com/clhQHWC.jpg
 tags: [data-science, python]
 comments: true
 description: O churn é uma métrica que mede a rotatividade de clientes do negócio isso está relacionado com os índices de evasão dos clientes a previsão dessa métrica é de suma importância.
@@ -20,9 +20,9 @@ Irei demonstrar aqui algumas técnicas de business analytics para resolver um pr
 
 O intuito da análise exploratória dos dados é descobrir mais sobre os nossos dados, aqui vou te mostrar alguns insights que consegui explorando os dados.
 
-Começando com o gênero dos clientes, conseguimos perceber que os clientes do gênero feminino são os clientes que mais deixaram de ser clientes. ![alt text](https://imgur.com/3heZdcP)
+Começando com o gênero dos clientes, conseguimos perceber que os clientes do gênero feminino são os clientes que mais deixaram de ser clientes. ![alt text](https://i.imgur.com/3heZdcP.png)
 
-Continuando, temos uma variável que mostra se o cliente tem ou não um cartão de crédito, representado por 0 e 1. A tabela nos mostra que os clientes que possuem cartão de crédito são a maioria que deixaram de ser clientes do banco. ![alt text](https://imgur.com/W1H7x51)
+Continuando, temos uma variável que mostra se o cliente tem ou não um cartão de crédito, representado por 0 e 1. A tabela nos mostra que os clientes que possuem cartão de crédito são a maioria que deixaram de ser clientes do banco. ![alt text](https://i.imgur.com/W1H7x51.png)
 
 Convido você a entrar no notebook para ver toda a análise dos dados feita, [clique aqui.](https://bit.ly/2O0cJSI)
 
@@ -38,7 +38,7 @@ Interpretando alguns dados temos que, os clientes do sexo Male possuem menos cha
 
 Temos que para esse modelo algumas variáveis importantes, sendo elas **Geography, Gender, Age, Balance e IsActiveMember.**
 
-Para fazer uma comparação com a Regressão Logística, usaremos o Random Forest Classifier, que é um algoritmo baseado em árvores. ![alt text](https://imgur.com/j59H0h3)
+Para fazer uma comparação com a Regressão Logística, usaremos o Random Forest Classifier, que é um algoritmo baseado em árvores. ![alt text](https://i.imgur.com/j59H0h3.png)
 
 Para tal, o modelo, de acordo com o gráfico acima, tivemos que as variáveis importantes foram: **Age, EstimatedSalary, Balance e CreditScore.**
 
