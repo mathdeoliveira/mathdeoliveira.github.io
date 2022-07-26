@@ -87,7 +87,7 @@ Existe projetos que nascem sem ao menos ter dados os suficientes para que um alg
 A comunicação ao decorrer dessas reuniões deve ser claras e diretas, entender como funciona o processo atualmente dará ao time um entendimento maior do negócio e com isso é possível atuar de forma mais assertiva e com isso desenvolver um produto que tenha maior chances de ser um sucesso e, não distante disso, deve-se entender também como será a entrega desse projeto e a data de entrega esperada para que seja possível julgar o que é e o que não é possível fazer.
 
 <p align="center">
-  <img src="https://i.imgur.com/A0qH0jL.png" alt="Sublime's custom image"/>
+  <img src="https://i.imgur.com/dhusvwk.png" alt="Sublime's custom image"/>
 </p>
 <p align = "center">
 Um ciclo onde as probabilidades são altas em levar o projeto ao fracasso por motivos de planejamento mal executado, ou até mesmo, não realizado.
@@ -152,7 +152,6 @@ Um código escrito de forma sem padrão e bagunçado pode levar uma simples tare
 O desenvolvimento de um código limpo é foco total dessa etapa, a modularização e registrar as novas versões em um ambiente em que possibilita esse versionamento é algo fundamental. Com isso devemos desenvolver o projeto onde o impacto de uma mudança em uma etapa do processo não seja motivos de que outra etapa tenha problemas na sua execução.
 
 Portanto, o time deve ser envolvido no desenvolvimento ágil, porém com código limpo, onde eles podem trabalhar juntos de forma eficiente na mesma base de código, minimizando bastante a chance de erros e reduzindo a quantidade de tempo gasto no debugging do código.
-
 
 ## Implantação
 
