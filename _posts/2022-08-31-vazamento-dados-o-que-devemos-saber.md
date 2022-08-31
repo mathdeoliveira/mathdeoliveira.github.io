@@ -5,7 +5,7 @@ date: 2022-08-31
 image: https://i.imgur.com/4sIezyt.jpg
 tags: [data-science, machine-learning]
 comments: true
-description: Existem alguns passos antes mesmo em pensar em aplicar machine learning na empresa.
+description: O vazamento de dados acaba impactando diretamente no modelo, mas como podemos identificar e lidar com ele.
 ---
 
 <p align="center" width="60%">
