@@ -3,7 +3,7 @@ title: Aplicação da álgebra linear em data science - Parte 1 Vetores
 layout: post
 date: 2022-10-23
 image: https://i.imgur.com/4sIezyt.jpg
-tags: [data-science, machine-learning]
+tags: [data-science, algebra-linear, math]
 comments: true
 description: Vetores fornecem as bases sobre toda a álgebra linear e suas aplicações em um projeto de data science.
 ---
@@ -31,7 +31,7 @@ Para realizar o cálculo da correlação entre duas variáveis nós utilizamos o
 Após o cálculo do coeficiente de correlação é preciso realizar algumas normalizações para que o resultado fique entre o intervalo -1 e +1, sendo elas: (1) Centro médio de cada variável e (2) Divida o produto escalar pelo produto das normas vetoriais.
 
 - 1: O centro médio de cada variável significa subtrair o valor médio de cada valor de dados
-- 2: Essa normalização divisiva cancela as unidades de medida e dimensiona a magnitude de correlação máxima possível para |1|.
+- 2: Essa normalização divisiva cancela as unidades de medida e dimensiona a magnitude de correlação máxima possível para módulo de 1.
 
 Sigamos para o cálculo em si da correlação, uma das mais utilizadas é a de Pearson e podemos ver a sua fórmula abaixo:
 
@@ -53,7 +53,7 @@ Fórmula 2: Correlação de Pearson expressada em álgebra linear, onde x̃ é c
 
 Portanto, a correlação de Pearson é um simples produto escalar entre duas variáveis normalizadas pela magnitude dessas variáveis. Mas vamos realizar uma demonstração passo a passo para exemplificar e facilitar o entendimento.
 
-1. Quando falamos de vetor estamos lidando com uma notação igual a $\vec{v}$, definimos então dois vetores com n valores:
+- Quando falamos de vetor estamos lidando com uma notação igual a $\vec{v}$, definimos então dois vetores com n valores:
 
 <p align="center">
   <img src="https://i.imgur.com/U76vWO6.png" />
@@ -62,7 +62,7 @@ Portanto, a correlação de Pearson é um simples produto escalar entre duas var
 Imagem 2: Vetores x e y definidos 
 </p>
 
-2. Defina as médias dos valores de $\vec{x}$ como $\bar x$ e o mesmo para o $\vec{y}$:
+- Defina as médias dos valores de $\vec{x}$ como $\bar x$ e o mesmo para o $\vec{y}$:
 
 <p align="center">
   <img src="https://i.imgur.com/jUIU0r8.png" />
@@ -71,7 +71,7 @@ Imagem 2: Vetores x e y definidos
 Imagem 3: Exemplo para x para calcular as médias dos valores
 </p>
 
-3. Definir então dois novos vetores, $\vec{x^ c}$ e $\vec{y^ c}$, que contém os valores dos vetores com suas respectivas médias subtraídas:
+- Definir então dois novos vetores, $\vec{x^ c}$ e $\vec{y^ c}$, que contém os valores dos vetores com suas respectivas médias subtraídas:
 
 <p align="center">
   <img src="https://i.imgur.com/jO7PBa0.png" />
@@ -80,7 +80,7 @@ Imagem 3: Exemplo para x para calcular as médias dos valores
 Imagem 4: Vetores x e y para calcular suas médias subtraídas
 </p>
 
-4. Dado isso, precisamos então definir a variância amostral de $\vec{x}$ e $\vec{y}$ como a média dos desvios quadrados da média:
+- Dado isso, precisamos então definir a variância amostral de $\vec{x}$ e $\vec{y}$ como a média dos desvios quadrados da média:
 
 <p align="center">
   <img src="https://i.imgur.com/MuOKVZg.png" />
@@ -89,7 +89,7 @@ Imagem 4: Vetores x e y para calcular suas médias subtraídas
 Imagem 5: Exemplo de definição da variância amostral para x
 </p>
 
-5. E com isso podemos calcular o desvio padrão da amostra de $\vec{x}$ e $\vec{y}$:
+- E com isso podemos calcular o desvio padrão da amostra de $\vec{x}$ e $\vec{y}$:
 
 <p align="center">
   <img src="https://i.imgur.com/aZJ25we.png" />
@@ -98,7 +98,7 @@ Imagem 5: Exemplo de definição da variância amostral para x
 Imagem 6: Exemplo de definição do desvio padrão da amostra para x
 </p>
 
-6. Como dito anteriormente, precisamos realizar a normalização das versões de $\vec{x}$ e $\vec{y}$:
+- Como dito anteriormente, precisamos realizar a normalização das versões de $\vec{x}$ e $\vec{y}$:
 
 <p align="center">
   <img src="https://i.imgur.com/jJaTYGf.png" />
@@ -107,7 +107,7 @@ Imagem 6: Exemplo de definição do desvio padrão da amostra para x
 Imagem 7: Normalização dos vetores x e y
 </p>
 
-7. Com isso podemos realizar o cálculo da coeficiente de correlação de Pearson de $\vec{x}$ e $\vec{y}$ que é dado por $\dfrac{1}{n}$ vezes o produto escalar de $\vec{x^ z}$ e $\vec{y^ z}$:
+- Com isso podemos realizar o cálculo da coeficiente de correlação de Pearson de $\vec{x}$ e $\vec{y}$ que é dado por $\dfrac{1}{n}$ vezes o produto escalar de $\vec{x^ z}$ e $\vec{y^ z}$:
 
 <p align="center">
   <img src="https://i.imgur.com/lkzDXiN.png" />
