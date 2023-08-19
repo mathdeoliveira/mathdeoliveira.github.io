@@ -8,12 +8,25 @@ weight: 3
 # **Sobre mim**
 
 Olá, aqui quem fala é **{{ site.author.name }}** :wave:,<br>
-Profissional da área de dados com experiência de 3+ anos em resolver problemas e fornecer informações valiosas através dos dados e aplicação de técnicas de Data Science. Focado em atuação próximo ao negócio, com comunicação de qualidade e entendimento alinhado foi possível criar produtos de dados atuais que geram receita.
+Como um Cientista de Dados experiente, sou dedicado a desenvolver soluções robustas de Data Science que abrangem todo o ciclo de vida, desde a concepção até a implementação. Minha especialização reside na utilização da linguagem Python para criar produtos de dados impactantes, com uma abordagem voltada para a resolução de problemas de negócios e tomada de decisões estratégicas.
 
-Habilidades técnicas:
-- Ferramentas: MicroStrategy , PowerCenter, Pentaho, Power BI, Oracle, MySQL, PostgreSQL, DW, Machine Learning, scikit-learn, pandas, numpy, Jupyter Notebook Tableau, Grafana, Metabase e Git.
-- Clouds: AWS e Google Cloud Platform.
-- Linguagens: SQL, Python e R
+- **Habilidades e Conhecimentos:**
+
+1. Domínio avançado da linguagem Python para análise de dados, modelagem e implementação de soluções de Data Science.
+2. Proficiência em SQL para a extração eficiente de dados armazenados, permitindo análises fundamentadas.
+3. Expertise na aplicação de frameworks renomados, como scikit-learn, pandas, xgboost e feature-engine, para criar modelos de machine learning supervisionado e não supervisionado.
+4. Utilização das melhores práticas de desenvolvimento e versionamento com Git para garantir a qualidade e rastreabilidade do código.
+5. Habilidade em avaliar e interpretar métricas de validação de desempenho de modelos, além de monitorar modelos em produção.
+6. Experiência sólida na realização de experimentos de Testes A/B com rigor estatístico, contribuindo para decisões informadas e eficazes.
+7. Mentalidade analítica para a criação e seleção criteriosa de atributos que melhor representam os desafios enfrentados.
+
+- **Conquistas Impactantes:**
+
+1. Participei ativamente de equipes ágeis de dados, contribuindo para a disseminação da cultura Data Driven em toda a organização.
+2. Conduzi projetos que resultaram em um aumento notável de 8% na receita, através da aplicação de abordagens orientadas a dados.
+3. Identifiquei oportunidades valiosas por meio de experimentos, conduzindo a um aumento de 8% na satisfação do usuário ao adotar novas estratégias com clientes.
+4. Experiência sólida em ambientes variados, incluindo empresas de consultoria e startups, aplicando minha expertise para entender as necessidades específicas e criar produtos de dados bem-sucedidos.
+5. Profissional comprometido com a colaboração e comunicação eficaz, habilidades que foram fundamentais para compartilhar resultados com várias áreas e influenciar positivamente as estratégias de negócios.
 
 Dê uma olhada em alguns links interessantes:
 - <i class="fab fa-github"></i> [GitHub](https://github.com/mathdeoliveira)
