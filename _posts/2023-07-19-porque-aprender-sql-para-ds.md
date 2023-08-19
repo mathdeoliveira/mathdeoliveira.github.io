@@ -16,7 +16,7 @@ Neste artigo, exploraremos a trajetória de descoberta e domínio do SQL na jorn
 Preparados para embarcar em uma jornada que transformará a forma como percebemos e aproveitamos os dados, adentraremos as complexidades do SQL, sua aplicabilidade em uma variedade de cenários e a forma como se torna uma peça crucial no quebra-cabeça da excelência em ciência de dados. Ao longo deste artigo, desvendaremos como a maestria em SQL não apenas aprimora as habilidades técnicas, mas também posiciona o cientista de dados em um patamar elevado no cenário competitivo, pavimentando o caminho para o sucesso promissor no universo em constante evolução da análise de dados.
 
 Acesse o link abaixo para assistir o conteúdo em forma de vídeo.
-{% include elements/video.html id="0oVmykXNeiU&t" %}
+{% include elements/video.html id="0oVmykXNeiU" %}
 
 ## Capítulo 1: O Início da Jornada
 

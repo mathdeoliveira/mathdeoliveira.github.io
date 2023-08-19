@@ -11,7 +11,7 @@ description: Neste artigo, vamos abordar 5 tópicos que você PRECISA saber sobr
 Hoje nós vamos falar o que é essencial de engenharia de software para data science. Vamos explorar como essas duas áreas se encontram e se complementam para criar soluções incríveis!
 
 Acesse o link abaixo para assistir o conteúdo em forma de vídeo.
-{% include elements/video.html id="XWDGLN2PWfM&t" %}
+{% include elements/video.html id="XWDGLN2PWfM" %}
 
 Se você já está imerso no mundo da Ciência de Dados e entende sua capacidade transformadora, saiba que entre todas as habilidades valiosas que um cientista de dados deve dominar, a Engenharia de Software ocupa um lugar de destaque.
 

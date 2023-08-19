@@ -13,7 +13,7 @@ description: Neste artigo, vai ser mostrado o que são as Windows Functions, com
 Neste artigo, vamos mergulhar em um recurso avançado e poderoso oferecido por sistemas de gerenciamento de banco de dados relacionais: as SQL Window Functions, também conhecidas como Funções de Janela. Essa funcionalidade se destaca como uma ferramenta essencial para realizar cálculos e agregações em subconjuntos específicos de dados sem a necessidade de subconsultas complexas ou junções intricadas. Além disso vamos demonstra como elas podem ser empregadas e desafios para você praticar, então vamos para o conteúdo.
 
 Acesse o link abaixo para assistir o conteúdo em forma de vídeo.
-{% include elements/video.html id="MzxIhnIaXuY&t" %}
+{% include elements/video.html id="MzxIhnIaXuY" %}
 
 # Definição
 

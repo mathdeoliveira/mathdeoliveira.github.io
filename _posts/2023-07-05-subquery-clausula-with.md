@@ -13,7 +13,7 @@ description: Neste artigo, vamos trazer pra vocês os tipos de Subquery e a dife
 No emocionante mundo do SQL, existe uma dupla dinâmica que está pronta para levar suas habilidades de análise de dados a um novo patamar: as subqueries e as Expressões de Tabela Comum, ou CTEs. Neste artigo, vamos mergulhar de cabeça nesses conceitos sem complicação, entender onde e como podemos aplicá-los para fazer mágica com nossas consultas SQL. Vamos desvendar os diferentes tipos de subqueries e descobrir quando é hora de escolher entre elas e as CTEs, tudo isso para tornar sua jornada na manipulação de dados mais fácil, intuitiva e cheia de insights surpreendentes. Prontos? Vamos lá!
 
 Acesse o link abaixo para assistir o conteúdo em forma de vídeo.
-{% include elements/video.html id="4xFH7fUTAD8&t" %}
+{% include elements/video.html id="4xFH7fUTAD8" %}
 
 # Subquery
 Mas afinal, o que é Subquery? É o seguinte, bem direto, Subquery é uma consulta dentro de outra consulta, assim permite você realizae execuções de comando SQL mais complexos entre tabelas, e por isso você pode utilizar a Subquery nas cláusulas:
