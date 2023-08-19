@@ -1,7 +1,12 @@
+- title: Cientista de dados, <a href="https://www.kyros.com.br/">Kyros Consultoria</a>, BR
+  from: 2023
+  to: present
+  description: Atuo como consultor de Ciência de Dados em uma empresa do ramo financeiro, identifico oportunidades de negócio a partir dos dados e com isso levanto os requisitos para a criação de projetos de machine learning.
+
 - title: Cientista de dados, <a href="https://www.meliuz.com.br/">Méliuz</a>, BR
   from: 2021
-  to: present
-  description: Design e desenvolvimento de novos produtos utilizando algoritmos de machine learning.
+  to: 2023
+  description: Com sucesso, implementei algoritmos de ML com scikit-learn e Python, revelando padrões e impulsionando um aumento de 8% na receita. Enriqueci futuros modelos de ML com fluxos de dados em SQL. Automatizei deploy de funções serverless na GCP, otimizando processos internos. Através de processos analíticos, atributos foram criados com pandas, reduzindo em até 5% a taxa de reclamação de usuários ao aprimorar a identificação de problemas.
 
 - title: Analista de Dados, <a href="https://www.clickbus.com.br/">ClickBus</a>, BR
   from: 2020
