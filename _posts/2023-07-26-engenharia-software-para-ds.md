@@ -3,7 +3,7 @@ title: A Engenharia de Software por trás da ciência de dados!
 layout: post
 date: 2023-07-19
 image: https://i.imgur.com/TCrZWDp.jpg
-tags: [sql, database, subquery]
+tags: [data-science, software-engineering]
 comments: true
 description: Neste artigo, vamos abordar 5 tópicos que você PRECISA saber sobre Engenharia de Software na Ciência de Dados!
 ---
