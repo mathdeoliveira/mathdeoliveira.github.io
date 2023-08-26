@@ -3,7 +3,7 @@ title: Windows Functions - o que são e como funcionam?
 layout: post
 date: 2023-07-19
 image: https://i.imgur.com/TCrZWDp.jpg
-tags: [sql, database, subquery]
+tags: [sql, windows-functions]
 comments: true
 description: Neste artigo, vai ser mostrado o que são as Windows Functions, como utilizá-las de forma eficiente e como elas podem agregar poder e flexibilidade às suas consultas SQL.
 ---
