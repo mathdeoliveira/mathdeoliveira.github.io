@@ -3,7 +3,7 @@ title: A Importância do SQL na Jornada do Cientista de Dados
 layout: post
 date: 2023-07-19
 image: https://i.imgur.com/TCrZWDp.jpg
-tags: [data-science, sql, database]
+tags: [data-science, sql]
 comments: true
 description: Neste artigo, exploraremos a importância do domínio do SQL na jornada do cientista de dados, desde sua aplicação prática na manipulação de dados até seu papel como alicerce para análises avançadas e insights valiosos.
 ---
