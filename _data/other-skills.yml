@@ -1,7 +1,0 @@
-- name: Excel
-  percentage: 99
-  color: info
-
-- name: Microsoft Power BI
-  percentage: 90
-  color: success
